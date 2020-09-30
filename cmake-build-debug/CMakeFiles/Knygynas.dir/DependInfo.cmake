@@ -4,12 +4,12 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/Giedrius/CLionProjects/strukturinis-programavimas-pratybos-2019-2020-eif-courses/Knyga.cpp" "C:/Users/Giedrius/CLionProjects/strukturinis-programavimas-pratybos-2019-2020-eif-courses/cmake-build-debug/CMakeFiles/Knygynas.dir/Knyga.cpp.obj"
-  "C:/Users/Giedrius/CLionProjects/strukturinis-programavimas-pratybos-2019-2020-eif-courses/Knygynas.cpp" "C:/Users/Giedrius/CLionProjects/strukturinis-programavimas-pratybos-2019-2020-eif-courses/cmake-build-debug/CMakeFiles/Knygynas.dir/Knygynas.cpp.obj"
-  "C:/Users/Giedrius/CLionProjects/strukturinis-programavimas-pratybos-2019-2020-eif-courses/Leidinys.cpp" "C:/Users/Giedrius/CLionProjects/strukturinis-programavimas-pratybos-2019-2020-eif-courses/cmake-build-debug/CMakeFiles/Knygynas.dir/Leidinys.cpp.obj"
-  "C:/Users/Giedrius/CLionProjects/strukturinis-programavimas-pratybos-2019-2020-eif-courses/Leidykla.cpp" "C:/Users/Giedrius/CLionProjects/strukturinis-programavimas-pratybos-2019-2020-eif-courses/cmake-build-debug/CMakeFiles/Knygynas.dir/Leidykla.cpp.obj"
-  "C:/Users/Giedrius/CLionProjects/strukturinis-programavimas-pratybos-2019-2020-eif-courses/Vadovelis.cpp" "C:/Users/Giedrius/CLionProjects/strukturinis-programavimas-pratybos-2019-2020-eif-courses/cmake-build-debug/CMakeFiles/Knygynas.dir/Vadovelis.cpp.obj"
-  "C:/Users/Giedrius/CLionProjects/strukturinis-programavimas-pratybos-2019-2020-eif-courses/main.cpp" "C:/Users/Giedrius/CLionProjects/strukturinis-programavimas-pratybos-2019-2020-eif-courses/cmake-build-debug/CMakeFiles/Knygynas.dir/main.cpp.obj"
+  "C:/Users/Marius/CLionProjects/Knygynas/Knyga.cpp" "C:/Users/Marius/CLionProjects/Knygynas/cmake-build-debug/CMakeFiles/Knygynas.dir/Knyga.cpp.obj"
+  "C:/Users/Marius/CLionProjects/Knygynas/Knygynas.cpp" "C:/Users/Marius/CLionProjects/Knygynas/cmake-build-debug/CMakeFiles/Knygynas.dir/Knygynas.cpp.obj"
+  "C:/Users/Marius/CLionProjects/Knygynas/Leidinys.cpp" "C:/Users/Marius/CLionProjects/Knygynas/cmake-build-debug/CMakeFiles/Knygynas.dir/Leidinys.cpp.obj"
+  "C:/Users/Marius/CLionProjects/Knygynas/Leidykla.cpp" "C:/Users/Marius/CLionProjects/Knygynas/cmake-build-debug/CMakeFiles/Knygynas.dir/Leidykla.cpp.obj"
+  "C:/Users/Marius/CLionProjects/Knygynas/Vadovelis.cpp" "C:/Users/Marius/CLionProjects/Knygynas/cmake-build-debug/CMakeFiles/Knygynas.dir/Vadovelis.cpp.obj"
+  "C:/Users/Marius/CLionProjects/Knygynas/main.cpp" "C:/Users/Marius/CLionProjects/Knygynas/cmake-build-debug/CMakeFiles/Knygynas.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
