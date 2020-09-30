@@ -1,5 +1,9 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/Knygynas.dir/Knyga.cpp.obj"
   "CMakeFiles/Knygynas.dir/Knygynas.cpp.obj"
+  "CMakeFiles/Knygynas.dir/Leidinys.cpp.obj"
+  "CMakeFiles/Knygynas.dir/Leidykla.cpp.obj"
+  "CMakeFiles/Knygynas.dir/Vadovelis.cpp.obj"
   "CMakeFiles/Knygynas.dir/main.cpp.obj"
   "Knygynas.exe"
   "Knygynas.exe.manifest"
