@@ -142,6 +142,33 @@ Knygynas/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Knygynas.dir\build.make CMakeFiles/Knygynas.dir/build
 .PHONY : Knygynas/fast
 
+Knyga.obj: Knyga.cpp.obj
+
+.PHONY : Knyga.obj
+
+# target to build an object file
+Knyga.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Knygynas.dir\build.make CMakeFiles/Knygynas.dir/Knyga.cpp.obj
+.PHONY : Knyga.cpp.obj
+
+Knyga.i: Knyga.cpp.i
+
+.PHONY : Knyga.i
+
+# target to preprocess a source file
+Knyga.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Knygynas.dir\build.make CMakeFiles/Knygynas.dir/Knyga.cpp.i
+.PHONY : Knyga.cpp.i
+
+Knyga.s: Knyga.cpp.s
+
+.PHONY : Knyga.s
+
+# target to generate assembly for a file
+Knyga.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Knygynas.dir\build.make CMakeFiles/Knygynas.dir/Knyga.cpp.s
+.PHONY : Knyga.cpp.s
+
 Knygynas.obj: Knygynas.cpp.obj
 
 .PHONY : Knygynas.obj
@@ -168,6 +195,60 @@ Knygynas.s: Knygynas.cpp.s
 Knygynas.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Knygynas.dir\build.make CMakeFiles/Knygynas.dir/Knygynas.cpp.s
 .PHONY : Knygynas.cpp.s
+
+Leidinys.obj: Leidinys.cpp.obj
+
+.PHONY : Leidinys.obj
+
+# target to build an object file
+Leidinys.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Knygynas.dir\build.make CMakeFiles/Knygynas.dir/Leidinys.cpp.obj
+.PHONY : Leidinys.cpp.obj
+
+Leidinys.i: Leidinys.cpp.i
+
+.PHONY : Leidinys.i
+
+# target to preprocess a source file
+Leidinys.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Knygynas.dir\build.make CMakeFiles/Knygynas.dir/Leidinys.cpp.i
+.PHONY : Leidinys.cpp.i
+
+Leidinys.s: Leidinys.cpp.s
+
+.PHONY : Leidinys.s
+
+# target to generate assembly for a file
+Leidinys.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Knygynas.dir\build.make CMakeFiles/Knygynas.dir/Leidinys.cpp.s
+.PHONY : Leidinys.cpp.s
+
+Leidykla.obj: Leidykla.cpp.obj
+
+.PHONY : Leidykla.obj
+
+# target to build an object file
+Leidykla.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Knygynas.dir\build.make CMakeFiles/Knygynas.dir/Leidykla.cpp.obj
+.PHONY : Leidykla.cpp.obj
+
+Leidykla.i: Leidykla.cpp.i
+
+.PHONY : Leidykla.i
+
+# target to preprocess a source file
+Leidykla.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Knygynas.dir\build.make CMakeFiles/Knygynas.dir/Leidykla.cpp.i
+.PHONY : Leidykla.cpp.i
+
+Leidykla.s: Leidykla.cpp.s
+
+.PHONY : Leidykla.s
+
+# target to generate assembly for a file
+Leidykla.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Knygynas.dir\build.make CMakeFiles/Knygynas.dir/Leidykla.cpp.s
+.PHONY : Leidykla.cpp.s
 
 main.obj: main.cpp.obj
 
@@ -205,9 +286,18 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... Knygynas
+	@echo ... Knyga.obj
+	@echo ... Knyga.i
+	@echo ... Knyga.s
 	@echo ... Knygynas.obj
 	@echo ... Knygynas.i
 	@echo ... Knygynas.s
+	@echo ... Leidinys.obj
+	@echo ... Leidinys.i
+	@echo ... Leidinys.s
+	@echo ... Leidykla.obj
+	@echo ... Leidykla.i
+	@echo ... Leidykla.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
